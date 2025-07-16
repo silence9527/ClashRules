@@ -66,10 +66,6 @@ ruleset=🎥 Netflix,[]GEOSITE,netflix
 ruleset=🎥 DisneyPlus,[]GEOSITE,disney
 ruleset=🎥 HBO,[]GEOSITE,hbo
 ruleset=🎥 PrimeVideo,[]GEOSITE,primevideo
-;Lady专用
-- DOMAIN-SUFFIX,javbus.com👏 Lady
-- DOMAIN-SUFFIX,javlibrary.com👏 Lady
-- DOMAIN-SUFFIX,javdb.com,👏 Lady
 ;Emby 包括主流 Emby 服务相关域名
 ruleset=🎥 Emby,[]GEOSITE,category-emby
 ruleset=🎻 Spotify,[]GEOSITE,spotify
