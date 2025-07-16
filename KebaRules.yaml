@@ -42,7 +42,7 @@ ruleset=🎯 全球直连,clash-classic:https://testingcf.jsdelivr.net/gh/Aether
 ;各大游戏平台下载域名直连
 ruleset=🎯 全球直连,[]GEOSITE,category-game-platforms-download
 ;BT PT Tracker 相关域名直连
-ruleset=🎯 全球直连,clash-classic:https://github.com/silence9527/PT-Rules/blob/main/Rules/Shadowrocket/PTDirect.yaml,28800
+ruleset=🎯 全球直连,clash-classic:https://gh-proxy.com/raw.githubusercontent.com/silence9527/PT-Rules/refs/heads/main/Rules/Shadowrocket/PTDirect.yaml,28800
 ruleset=🎯 全球直连,[]GEOSITE,category-public-tracker
 ;即时通讯包括了 Telegram/WhatsApp/Line 等海外主流即时通讯软件域名
 ruleset=💬 即时通讯,[]GEOSITE,category-communication
